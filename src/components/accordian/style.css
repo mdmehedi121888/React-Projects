@@ -1,0 +1,24 @@
+.container,.plusIcon {
+    text-align: center;
+    cursor: pointer;
+}
+
+.accordian-section {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+#multiBtn{
+    padding: 10px;
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.container{
+    background-color: bisque;
+    padding: 20px;
+}

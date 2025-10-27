@@ -9,4 +9,8 @@
 
 <img width="537" height="215" alt="image" src="https://github.com/user-attachments/assets/d1ea221a-e3fa-4b29-b367-bc320cfca285" />
 
+# Rating Star
+
+<img width="609" height="123" alt="image" src="https://github.com/user-attachments/assets/05601a67-1b6f-4cee-9cd6-d16b7443ceed" />
+
 

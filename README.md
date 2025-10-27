@@ -13,4 +13,6 @@
 
 <img width="609" height="123" alt="image" src="https://github.com/user-attachments/assets/05601a67-1b6f-4cee-9cd6-d16b7443ceed" />
 
+# Image Slider
 
+<img width="526" height="294" alt="image" src="https://github.com/user-attachments/assets/a53b5397-e402-4257-9006-edaaa9ba8963" />

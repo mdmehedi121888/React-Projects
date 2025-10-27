@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import data from "./db";
+import data from "./data";
 import "./style.css";
 
 export default function Accordian() {

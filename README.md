@@ -16,3 +16,7 @@
 # Image Slider
 
 <img width="526" height="294" alt="image" src="https://github.com/user-attachments/assets/a53b5397-e402-4257-9006-edaaa9ba8963" />
+
+# Load More Data 
+
+<img width="935" height="408" alt="image" src="https://github.com/user-attachments/assets/b3508d15-da0c-4438-a01e-76dc678b6938" />
